@@ -72,4 +72,5 @@
  >
  > - Storage accounts (storage & static web hosting)
  > 
+ > - Application Insights
 <br/>
