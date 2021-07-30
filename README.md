@@ -1,4 +1,4 @@
-## Devops engineer, Developer and [Tricking](https://youtu.be/DTOvyTinIj8?t=14) enthusiast
+## Devops engineer, Developer and <a target="_blank" href="https://youtu.be/DTOvyTinIj8?t=14">Tricking </a>   enthusiast
 
 - 🔭 I’m currently working on a SaaS list manager [Enumy](https://www.enumy.ca)
 - 🌱 I’m currently learning Elixir lang and AWS CDK
