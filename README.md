@@ -1,14 +1,23 @@
-## Devops engineer, Developer and 
+## Devops engineer, Developer and Tricking enthusiast
+
+- 🔭 I’m currently working on a SaaS list manager [Enumy](https://www.enumy.ca)
+- 🌱 I’m currently learning Elixir lang and AWS CDK
+- 👯 I’m looking to collaborate with motivated developers
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I build custom mechanical keyboards
 
 ### Languages
 <img align="left" alt="js" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="nodejs" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
 <img align="left" alt="ts" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 <img align="left" alt="python" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="bash" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gnubash.svg" />
+<img align="left" alt="ps1" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powershell.svg" />
 <br/>
 
 ### Technologies & Frameworks
 <img align="left" alt="react" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="reactrouter" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reactrouter.svg" />
 <img align="left" alt="graphql" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
 <img align="left" alt="serverless" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />
 
@@ -64,19 +73,3 @@
  > - Storage accounts (storage & static web hosting)
  > 
 <br/>
-
-
-<!--
-**ghostjester/ghostjester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
