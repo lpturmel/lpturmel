@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Elixir lang and AWS CDK
 - 👯 I’m looking to collaborate with motivated developers
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I build custom mechanical keyboards
+- ⚡ Fun fact: I build custom mechanical keyboards ⌨️
 
 ### Languages
 <img align="left" alt="js" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
@@ -20,8 +20,8 @@
 <img align="left" alt="reactrouter" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reactrouter.svg" />
 <img align="left" alt="graphql" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
 <img align="left" alt="serverless" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" />
-
 <img align="left" alt="jwt" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jsonwebtokens.svg" />
+<img align="left" alt="git" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />
 <br/>
 
 ### Cloud
