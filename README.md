@@ -1,7 +1,7 @@
 ## Devops engineer, Developer and <a href="https://youtu.be/DTOvyTinIj8?t=14" target="_blank">Tricking</a> enthusiast
 
 - 🔭 I’m currently working on a SaaS list manager [Enumy](https://www.enumy.ca)
-- 🌱 I’m currently learning Elixir lang and AWS CDK
+- 🌱 I’m currently learning Solid.JS and AWS CDK
 - 👯 I’m looking to collaborate with motivated developers
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I build custom mechanical keyboards ⌨️
