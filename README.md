@@ -8,7 +8,7 @@
 
 ### Languages
 <img align="left" alt="js" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="nodejs" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
+<img align="left" alt="rust" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rust.svg" />
 <img align="left" alt="ts" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 <img align="left" alt="python" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="bash" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gnubash.svg" />
