@@ -1,6 +1,6 @@
 ## Devops engineer, Developer and <a href="https://youtu.be/DTOvyTinIj8?t=14" target="_blank">Tricking</a> enthusiast
 
-- 🔭 I’m currently working on a game account link service for gamers
+- 🔭 I’m currently working on an addon manager
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate with motivated developers
 - 😄 Pronouns: He/Him
