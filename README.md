@@ -1,9 +1,5 @@
 ## Devops engineer, Developer and <a href="https://youtu.be/DTOvyTinIj8?t=14" target="_blank">Tricking</a> enthusiast
 
-- 🔭 I’m currently working on serverless infrastructures
-- 🌱 I’m currently learning Rust
-- ⚡ Fun fact: I build custom mechanical keyboards ⌨️
-
 ### Languages
 <img align="left" alt="js" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="ts" width="26px" color="#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
